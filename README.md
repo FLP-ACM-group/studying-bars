@@ -43,7 +43,8 @@
 ## Peterlist Zo
 
 ``` text
-|11/26 [##] [CF 1295B 补题] | [CF 1296C 补题] | [学习数论：素数检测]
+|11/27 [] [[TODO] https://www.luogu.com.cn/problem/P4358]
+|11/26 [###] [CF 1295B 补题] | [CF 1296C 补题] | [学习数论：rho 算法]
 |11/25 [##] [CF 1454B 补题] | [CF 1295B 思考]
 |
 |
