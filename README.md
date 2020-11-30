@@ -44,6 +44,8 @@
 ## Peterlist Zo
 
 ``` text
+|11/30 [##][学习数论：rho 算法][学习数论：素数检验]
+|11/29 []
 |11/28 []
 |11/27 [###][[luogu.com.cn/problem/P4358 paste.ubuntu.com/p/4H6Q6h2RxR/][CF 1454A][CF 1452B]
 |11/26 [###][CF 1295B 补题][CF 1296C 补题][学习数论：rho 算法]
