@@ -53,7 +53,8 @@
 ## Peterlist Zo
 
 ``` text
-|12/08 [#][学习: 倍增][学习: LCA]
+|12/08 [###][学习: 倍增][学习: LCA]
+|      [LCA: https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/, 但是没有搞定]
 |12/07 [###][学习: 倍增][学习: LCA][学习: RMQ]
 |12/06 [##][学习: rho][学习: 倍增]
 |12/05 []
