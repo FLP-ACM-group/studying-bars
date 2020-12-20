@@ -48,6 +48,12 @@
 ## LWQ
 
 ``` text
+|12/20[#][icpc 2020 nanjing]|
+|12/19[#][icpc 2020 nanjing warm up]|
+[12/18[#][理板子]|
+[12/17[#][]
+|12/16[#][icpc shanghai G]
+|12/15[#][cf 690]|
 |12/14[#] [ICPC 2020 Shanghai B] |
 |12/10[#] [ICPC 2020 Brazil A] |
 |12/05[#][2019ICPC上海D]
