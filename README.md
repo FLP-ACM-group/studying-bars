@@ -52,6 +52,7 @@
 ## LWQ
 
 ``` text
+|12/23[#][icpc hk]|
 |12/20[#][icpc 2020 nanjing]|
 |12/19[#][icpc 2020 nanjing warm up]|
 [12/18[#][理板子]|
